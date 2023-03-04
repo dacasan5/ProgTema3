@@ -1,0 +1,13 @@
+---
+title: "ProgTema3"
+output: html_document
+autores: 
+date: "2023-03-04"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+```
+
+
